@@ -1,0 +1,9 @@
+{
+  "extends": "@nexty-ui/ts-config/react.json",
+  "compilerOptions": {
+    "baseUrl": "./src",
+  },
+  "include": [
+    "src"
+  ]
+}

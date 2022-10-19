@@ -1,0 +1,10 @@
+{
+  "name": "@nexty-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "@nextystudio/eslint-config": "^1.0.0",
+    "eslint": "^8.25.0"
+  }
+}

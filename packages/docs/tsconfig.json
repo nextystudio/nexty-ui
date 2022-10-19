@@ -1,0 +1,6 @@
+{
+  "extends": "@nexty-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
