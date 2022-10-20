@@ -26,7 +26,7 @@ module.exports = {
   `),
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/nexty-ui/'
+      config.base = '/'
     }
     return config
   }
