@@ -24,5 +24,12 @@ module.exports = {
       }
     </style>
   `),
+  viteFinal: (config, { configType }) => {
+    if (configType === 'PRODUCTION') {
+      config.base = '/nexty-ui/'
+    }
+
+    return config
+  }
 
 }
