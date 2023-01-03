@@ -1,6 +1,6 @@
 const baseColors = {
-  white: '#FFFFFF',
-  black: '#000000',
+  white: 'hsl(0, 0%, 100%)',
+  black: 'hsl(0, 0%, 0%)',
 
   gray100: '#E1E1E6',
   gray200: '#C4C4CC',

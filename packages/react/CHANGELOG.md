@@ -1,5 +1,11 @@
 # @nexty-ui/react
 
+## 2.3.0
+
+### Minor Changes
+
+- New variables
+
 ## 2.2.0
 
 ### Minor Changes
