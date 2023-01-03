@@ -1,5 +1,11 @@
 # @nexty-ui/react
 
+## 2.2.0
+
+### Minor Changes
+
+- Fix Dist
+
 ## 2.1.0
 
 ### Minor Changes
