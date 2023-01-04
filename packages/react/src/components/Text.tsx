@@ -17,10 +17,17 @@ export const Text = styled('p', {
       xl: { fontSize: '$xl' }, // 22
       '2xl': { fontSize: '$2xl' }, // 26
     },
+
+    weight: {
+      regular: { fontWeight: '400' },
+      medium: { fontWeight: '500' },
+      semibold: { fontWeight: '600' },
+    },
   },
 
   defaultVariants: {
     size: 'md',
+    weight: 'regular',
   },
 })
 

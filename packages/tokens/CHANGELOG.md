@@ -1,5 +1,11 @@
 # @nexty-ui/tokens
 
+## 2.1.1
+
+### Patch Changes
+
+- Adjust some variables
+
 ## 2.1.0
 
 ### Minor Changes

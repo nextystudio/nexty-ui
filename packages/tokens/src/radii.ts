@@ -1,8 +1,7 @@
 export const radii = {
-  px: '1px',
-  xs: '4px',
-  sm: '6px',
-  md: '8px',
-  lg: '16px',
+  xs: '2.5px',
+  sm: '5px',
+  md: '10px',
+  lg: '20px',
   full: '99999px',
 }
