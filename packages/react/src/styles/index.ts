@@ -26,6 +26,10 @@ export const {
     ...defaultThemeMap,
     width: 'space',
     height: 'space',
+    minWidth: 'space',
+    minHeight: 'space',
+    maxWidth: 'space',
+    minHeigth: 'space',
     opacity: 'opacity',
   },
 
