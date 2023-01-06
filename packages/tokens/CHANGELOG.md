@@ -1,5 +1,11 @@
 # @nexty-ui/tokens
 
+## 2.1.2
+
+### Patch Changes
+
+- Add some tokens
+
 ## 2.1.1
 
 ### Patch Changes
