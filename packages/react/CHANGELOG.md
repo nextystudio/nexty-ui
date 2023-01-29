@@ -1,5 +1,11 @@
 # @nexty-ui/react
 
+## 2.4.1
+
+### Patch Changes
+
+- Fix: "Flex" component
+
 ## 2.4.0
 
 ### Minor Changes

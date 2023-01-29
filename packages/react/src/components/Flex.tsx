@@ -106,7 +106,7 @@ export const Flex = styled('div', {
   },
 })
 
-export interface BoxProps extends ComponentProps<typeof Flex> {
+export interface FlexProps extends ComponentProps<typeof Flex> {
   as?: ElementType
   disabled?: boolean
 }
