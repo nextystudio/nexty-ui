@@ -1,0 +1,2 @@
+import{c as t}from"./index.8396adf1.js";import"./jsx-runtime.adb4824b.js";import"./iframe.c15754d3.js";import"./index.ce30ff61.js";const r={title:"Form/Switch",component:t,args:{children:"Label",disabled:!1},argTypes:{disabled:{control:{type:"boolean"}}}},i={},l={args:{disabled:!0}},d=["Default","Disabled"];export{i as Default,l as Disabled,d as __namedExportsOrder,r as default};
+//# sourceMappingURL=Switch.stories.1d3864e3.js.map

@@ -1,0 +1,2 @@
+import{A as t}from"./index.8396adf1.js";import"./jsx-runtime.adb4824b.js";import"./iframe.c15754d3.js";import"./index.ce30ff61.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/guidominguesdev.png",alt:"Gui Domingues"},argTypes:{src:{control:{type:"text"}}}},e={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{e as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.3672a274.js.map

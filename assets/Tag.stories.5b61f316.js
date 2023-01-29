@@ -1,0 +1,2 @@
+import{d as t}from"./index.8396adf1.js";import"./jsx-runtime.adb4824b.js";import"./iframe.c15754d3.js";import"./index.ce30ff61.js";const n={title:"Data display/Tag",component:t,args:{children:"LABEL",variant:"active",size:"md"},argTypes:{variant:{options:["active","inactive"],control:{type:"inline-radio"}},size:{options:["sm","md","lg"],control:{type:"inline-radio"}}}},r={},s={args:{variant:"inactive"}},c=["Active","Inactive"];export{r as Active,s as Inactive,c as __namedExportsOrder,n as default};
+//# sourceMappingURL=Tag.stories.5b61f316.js.map
